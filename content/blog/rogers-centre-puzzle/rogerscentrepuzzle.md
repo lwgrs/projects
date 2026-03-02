@@ -9,8 +9,8 @@ I got this puzzle at Christmas from my sister-in-law (who has gifted me several 
 
 ### Progress 
 
-**Started**: February 8, 2026
-**Number of sessions**: 2 (as of March 2 2026)
+**Started**: February 8, 2026 
+**Number of sessions**: 2 (as of March 2 2026) 
 **Completed**: 
 
 ### Pictures
