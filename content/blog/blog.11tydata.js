@@ -3,4 +3,5 @@ export default {
 		"posts"
 	],
 	"layout": "layouts/post.njk",
+	"permalink": "/{{ title | slugify }}/",
 };

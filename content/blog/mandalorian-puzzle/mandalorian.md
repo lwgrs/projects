@@ -3,6 +3,7 @@ title: The Mandalorian (puzzle, 500 pieces)
 description: A 500-piece puzzle from Buffalo Games depicting scenes from The Mandalorian. Completed June 2023.
 date: 2023-06-01
 tags: puzzles
+permalink: "/mandalorian/"
 ---
 
 Received as a Christmas gift (along with another 1000-piece puzzle featuring The Mandalorian from the same company). "Manufactured from premium quality materials including 100% recycled paperboard" [from the Walmart.com (US) listing)](https://www.walmart.com/ip/Buffalo-Games-500-Piece-Star-Wars-The-First-Thrilling-Chapter-Interlocking-Jigsaw-Puzzle/483725534).
