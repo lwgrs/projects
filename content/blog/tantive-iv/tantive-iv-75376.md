@@ -10,12 +10,13 @@ A Christmas gift from 2024, finally completed in 2026. This LEGO model ([#75376]
 
 ### Progress 
 
-**Started**: 2026-01-05 \
-**Number of sessions**: 2 \ 
+**Started**: 2026-01-05  \
+**Number of sessions**: 2  \ 
 **Completed**: 2026-01-12 
 
 ### Pictures
 
-![Initial progress of the LEGO set](./20260105_212013.jpg)
+![Completed set.](./20260105_212013.jpg)
 ![Completed LEGO set](./20260112_213344.jpg)
+
 ![Completed LEGO set](./20260112_213358.jpg)
