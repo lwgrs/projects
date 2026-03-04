@@ -3,4 +3,15 @@ const title = "Draft post";
 const date = "2023-01-23";
 const draft = true;
 ---
-This is a draft post
+
+*Project Description* 
+
+### Progress
+
+**Started**: Start Date \ 
+**Number of Sessions**: Number of sessions \ 
+**Completed**: Completion date 
+
+### Pictures 
+
+
