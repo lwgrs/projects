@@ -10,11 +10,16 @@ A Christmas gift from 2024, finally completed in 2026. This LEGO model ([#75376]
 ### Progress 
 
 **Started**: 2026-01-05  \
-**Number of sessions**: 2  \ 
+**Number of sessions**: 2  \
 **Completed**: 2026-01-12 
 
 ### Pictures
 
+*Initial progress January 5 2026 (bags 1-2)*
 ![The partially completed set after the first session. The front of the ship is facing to the bottom left of the picture and is missing the big engines that is the signature feature of the Tantive IV. The model sits on top of the instruction manual and in front of the original box.](./20260105_212013.jpg)
+
+*Completed set January 12 2026 (bags 3-7)*
 ![The completed Tantive IV set. The front of the ship is on the right side and sits on a black display stand in front of the original box.](./20260112_213344.jpg)
+
+*Another view of the completed set January 12 2026*
 ![An overhead view of the completed Tantive IV. The front of the ship is at the bottom of the picture, and is in front of the original box.](./20260112_213358.jpg)
