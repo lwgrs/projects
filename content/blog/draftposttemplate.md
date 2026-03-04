@@ -1,6 +1,8 @@
 ---js
 const title = "Draft post";
+const description = "Description";
 const date = "2023-01-23";
+const tags = "tags";
 const draft = true;
 ---
 
