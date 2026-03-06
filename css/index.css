@@ -296,3 +296,11 @@ header {
 	margin-right: 1em;
 }
 
+/* Main page post list */
+.grid-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Creates 3 columns */
+  gap: 10px; /* Spacing between grid items */
+  list-style: none; /* Optional: Removes default bullets */
+  padding: 0;
+}
