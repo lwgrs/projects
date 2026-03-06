@@ -235,7 +235,8 @@ header {
 	padding-left: 1.5rem;
 }
 .postlist-item {
-	display: flex;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
 	flex-wrap: wrap;
 	align-items: baseline;
 	counter-increment: start-from -1;
@@ -297,6 +298,7 @@ header {
 }
 
 /* Main page post list */
+
 .grid-list {
   display: grid;
   grid-template-columns: repeat(3, 1fr); /* Creates 3 columns */
