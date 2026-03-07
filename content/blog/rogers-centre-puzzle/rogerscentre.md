@@ -1,7 +1,7 @@
 ---
 title: Rogers Centre Puzzle
 description: A wooden puzzle depicting the Rogers Centre, home field of the Toronto Blue Jays.
-date: 2026-03-02
+date: 2026-03-07
 tags: puzzles
 permalink: "/rogerscentre/"
 ---
@@ -10,11 +10,16 @@ I got this puzzle at Christmas from my sister-in-law (who has gifted me several 
 
 ### Progress 
 
-**Started**: February 8, 2026 \
-**Number of sessions**: 3 (as of March 7 2026) \
-**Completed**: 
+**Started**: February 8 2026 \
+**Number of sessions**: 4) \
+**Completed**: March 7 2026
 
 ### Pictures
 
-#### As of March 2, 2026
+*Completed puzzle photos (March 7 2026)*
+![A completed puzzle depicting the Rogers Centre, home field of the Toronto Blue Jays. The field is hand drawn and not photorealistic. The box cover is standing behind the puzzle.](./20260307_175234.jpg)
+
+![A closw-up view of the same puzzle above. The individual piece cutouts are more apparent.](./20260307_175241.jpg)
+
+*Progress as of (March 2, 2026)*
 ![A collage depicting the Rogers Centre, home field of the Toronto Blue Jays.](./rogers-centre-collage.jpg)
