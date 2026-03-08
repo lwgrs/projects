@@ -11,7 +11,7 @@ I got this puzzle at Christmas from my sister-in-law (who has gifted me several 
 ### Progress 
 
 **Started**: February 8 2026 \
-**Number of sessions**: 4) \
+**Number of sessions**: 4 \
 **Completed**: March 7 2026
 
 ### Pictures
@@ -24,5 +24,5 @@ I got this puzzle at Christmas from my sister-in-law (who has gifted me several 
 *Progress picture (March 7 2026)*
 ![An incomplete artist rendering of The Rogers Centre, home field of the Toronto Blue Jays. It's a puzzle and several pieces are missing.](./20260307_134652.jpg)
 
-*Progress as of (March 2, 2026)*
+*Progress as of (March 2 2026)*
 ![A collage depicting the Rogers Centre, home field of the Toronto Blue Jays.](./rogers-centre-collage.jpg)
