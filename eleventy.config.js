@@ -76,11 +76,11 @@ export default async function(eleventyConfig) {
 		},
 		metadata: {
 			language: "en",
-			title: "Blog Title",
-			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
+			title: "Puzzles & Projects",
+			subtitle: "A blog to share the projects I'm working on between puzzles and LEGO models.",
+			base: "https://puzzle-projects.netlify.app",
 			author: {
-				name: "Your Name"
+				name: "Stephen Gower"
 			}
 		}
 	});
