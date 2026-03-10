@@ -7,4 +7,6 @@
 
   [plugins.inputs]
   paths = [ ".cache" ]
-	debug = true
+
+[[plugins]]
+  package = "netlify-plugin-debug-cache"
