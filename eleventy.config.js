@@ -104,6 +104,10 @@ export default async function(eleventyConfig) {
 		sharpOptions: {
 			animated: true,
 		},
+		cacheOptions: {
+        directory: ".cache",
+        duration: "1y",
+		},
 	});
 
 	// Filters
