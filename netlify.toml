@@ -1,6 +1,6 @@
 [build]
 	publish = "_site"
-	command = "npm run build && ls -la .cache"
+	command = "npm run build"
 
 [build.environment]
 ELEVENTY_CACHE_DIR = ".cache"
