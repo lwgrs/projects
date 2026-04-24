@@ -95,7 +95,7 @@ export default async function(eleventyConfig) {
 		failOnError: false,
 		htmlOptions: {
 			imgAttributes: {
-			// e.g. <img loading decoding> assigned on the HTML tag will override these values.
+				// e.g. <img loading decoding> assigned on the HTML tag will override these values.
 				loading: "lazy",
 				decoding: "async",
 			}
@@ -105,7 +105,7 @@ export default async function(eleventyConfig) {
 			animated: true,
 		},
 		cacheOptions: {
-/       directory: ".cache",
+        directory: ".cache",
         duration: "1y",
 		},
 	});
