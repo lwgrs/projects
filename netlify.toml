@@ -1,12 +1,9 @@
 [build]
-	publish = "_site"
-	command = "npm run build"
-
-[build.environment]
-ELEVENTY_CACHE_DIR = ".cache"
+  publish = "_site"
+  command = "npm run build"
 
 [[plugins]]
   package = "netlify-plugin-cache"
 
-[plugins.inputs]
-paths = [".cache"]
+  [plugins.inputs]
+    paths = [".cache"]

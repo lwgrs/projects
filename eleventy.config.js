@@ -3,6 +3,7 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { cpSync } from "node:fs";
 
 import pluginFilters from "./_config/filters.js";
 
@@ -87,28 +88,25 @@ export default async function(eleventyConfig) {
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-		// Output formats for each image.
-		formats: ["avif", "webp", "auto"],
+    formats: ["avif", "webp", "auto"],
+    widths: ["auto"],
+    failOnError: false,
+    htmlOptions: {
+        imgAttributes: {
+            loading: "lazy",
+            decoding: "async",
+        }
+    },
+    sharpOptions: {
+        animated: true,
+    },
+    outputDir: ".cache/@11ty/img/",
+    urlPath: "/img/built/",
+});
 
-		 widths: ["auto"],
-
-		failOnError: false,
-		htmlOptions: {
-			imgAttributes: {
-				// e.g. <img loading decoding> assigned on the HTML tag will override these values.
-				loading: "lazy",
-				decoding: "async",
-			}
-		},
-
-		sharpOptions: {
-			animated: true,
-		},
-		cacheOptions: {
-        directory: ".cache",
-        duration: "1y",
-		},
-	});
+eleventyConfig.on("eleventy.after", () => {
+    cpSync(".cache/@11ty/img/", "_site/img/built/", { recursive: true });
+});
 
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);
